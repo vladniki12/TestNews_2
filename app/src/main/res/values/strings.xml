@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">TestNews</string>
+    <string name="news_title">Новости</string>
+    <string name="present_news_title">Новость</string>
+    <string name="internet_error_title">Что-то пошло не так…</string>
+    <string name="refresh_title">Обновить</string>
+</resources>
